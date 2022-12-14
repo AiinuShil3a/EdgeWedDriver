@@ -2,11 +2,17 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="WebDriver"/>
+			<item value="Webdriver"/>
+			<item value="FirefoxWebDriver"/>
 			<item value="EdgeWebDriver"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="WebDriver"/>
+			<item value="Webdriver"/>
+			<item value="FirefoxWebDriver"/>
 			<item value="EdgeWebDriver"/>
 		</list>
 		<list key="version">
