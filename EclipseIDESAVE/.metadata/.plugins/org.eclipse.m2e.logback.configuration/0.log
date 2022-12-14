@@ -933,3 +933,12 @@ org.eclipse.core.runtime.CoreException: Launch configuration FirefoxWebDriver re
 2022-12-14 14:16:40,170 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\YEAR 2 TERM 2\T.Naruphon\EclipseIDESAVE\WebDriver\src\main\resources
 2022-12-14 14:16:40,172 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-12-14 14:16:40,172 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\YEAR 2 TERM 2\T.Naruphon\EclipseIDESAVE\WebDriver\src\test\resources
+2022-12-14 15:01:44,190 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-14 15:02:34,528 [Worker-32: Launching EdgeWebDriver] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-14 15:02:34,530 [Worker-32: Launching EdgeWebDriver] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\YEAR 2 TERM 2\T.Naruphon\EclipseIDESAVE\EdgeWebDriver\src\main\resources
+2022-12-14 15:02:34,532 [Worker-32: Launching EdgeWebDriver] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-14 15:02:34,532 [Worker-32: Launching EdgeWebDriver] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\YEAR 2 TERM 2\T.Naruphon\EclipseIDESAVE\EdgeWebDriver\src\test\resources
+2022-12-14 15:02:49,920 [Worker-2: Launching Edgetest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-14 15:02:49,921 [Worker-2: Launching Edgetest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\YEAR 2 TERM 2\T.Naruphon\EclipseIDESAVE\EdgeWebDriver\src\main\resources
+2022-12-14 15:02:49,922 [Worker-2: Launching Edgetest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-14 15:02:49,923 [Worker-2: Launching Edgetest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\YEAR 2 TERM 2\T.Naruphon\EclipseIDESAVE\EdgeWebDriver\src\test\resources

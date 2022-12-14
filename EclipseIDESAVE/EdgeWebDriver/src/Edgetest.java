@@ -10,10 +10,10 @@ class Edgetest {
 	void test() {
 		
 		WebDriver driver = null;
-		System.setProperty("webdriver.edge.driver", "D:\\YEAR 2 TERM 2\\T.Naruphon\\edgedriver_win64\\msedgedriver.exe");
+		System.setProperty("webdriver.edge.driver", "D:\\YEAR 2 TERM 2\\T.Naruphon\\Driver\\edgedriver_win64\\msedgedriver.exe");
 		driver = new EdgeDriver();
 		driver.get("http://www.google.com");
-		//driver.quit(); //ออกจากEdge
+		driver.quit(); //ออกจากEdge
 	
 	}
 
